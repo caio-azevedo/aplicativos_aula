@@ -1,0 +1,10 @@
+name: aula_ufscar
+title:
+username: da05uy-caio-azevedo
+account: da05uy-caio-azevedo
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13762116
+bundleId: 9684148
+url: https://caio-azevedo-ufscar.shinyapps.io/aula_ufscar/
+version: 1
